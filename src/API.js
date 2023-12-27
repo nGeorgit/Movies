@@ -23,7 +23,7 @@ TMDB = {
 				poster_path: title.poster_path ? IMAGE_BASE_URL + "/w342" + title.poster_path : null,
 				title: title.media_type === "movie" ? title.title : title.name 
 			}))
-
+		console.log(titles)
 		return titles
 	},
 	getTitle: (type, id) => {
