@@ -7,5 +7,6 @@ export default defineConfig({
   plugins: [
     reactRefresh(),
     WindiCSS(),
-  ]
+  ],
+  base: "Movies"
 })
