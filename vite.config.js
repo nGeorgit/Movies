@@ -8,5 +8,5 @@ export default defineConfig({
     reactRefresh(),
     WindiCSS(),
   ],
-  base: "Movies"
+  base: "/Movies/"
 })
