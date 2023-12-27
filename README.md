@@ -1,16 +1,4 @@
-# [React IMDB](https://react-imdb.pages.dev/)
-A completely responsive IMDB like movie database made with ReactJS using TMDB API. Browse popular titles and search across your favourite movies & tv series here.
 
-**Movie/Tv Series page:**
-![Title page screenshot](https://i.ibb.co/NCTwVw1/Screenshot-from-2021-08-23-12-34-00.png)
-
-**Search:**
-![Search page screenshot](https://i.ibb.co/DpXN8F1/Screenshot-from-2021-08-23-12-35-59.png)
-
-**Actor's Info:**
-![Actor's info screenshot](https://i.ibb.co/8z3gYJR/Screenshot-from-2021-08-23-12-38-01.png)
-
----
 ## Technologies used 🛠️
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
 - [Windi CSS](https://windicss.org/) - Next generation utility-first CSS framework.
@@ -37,6 +25,3 @@ npm run build && npm run serve
 > Or, run a development server using `npm run dev`
 
 ---
-## Data Sources
-The data for this project is generously provided by the following api/sources:
-- [The Movie Database API](https://www.themoviedb.org/documentation/api)
